@@ -2,8 +2,11 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "dev": "vite",
-        "build": "vite build"
+        "dev": "php artisan serve",
+        "build": "vite build",
+        "new_ctrl": "php artisan make:controller",
+        "new_view": "php artisan make:view",
+        "new_comp": "php artisan make:component"
     },
     "devDependencies": {
         "axios": "^1.7.4",

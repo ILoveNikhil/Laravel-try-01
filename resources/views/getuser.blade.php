@@ -1,0 +1,1 @@
+<h1>User name is : {{$name}}  form View</h1>

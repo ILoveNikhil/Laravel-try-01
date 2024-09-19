@@ -1,0 +1,1 @@
+<h1>View page for testing purpose only</h1>
